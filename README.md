@@ -21,9 +21,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek8056&show_icons=true&locale=en&layout=compact" alt="abhishek8056" /></p>
-
+ ### 📊 Profile stats
 <p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abhishek8056&show_icons=true&locale=en" alt="abhishek8056" /></p>
 
 <p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&" alt="abhishek8056" /></p>
