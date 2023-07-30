@@ -1,7 +1,7 @@
 
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hello 👋, I'm Abhishek Singh 👨‍💻</h1>
-<h3 align="center">|Computer Science Undergraduate | Web-Developer | Programming |</h3>
+<h3 align="center">|Computer Science Graduate | Web-Developer | Programming |</h3>
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
