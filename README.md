@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek8056&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8056" /> </p>
 <h1 align="center">Hello 👋, I'm Abhishek Singh 👨‍💻</h1>
-<h3 align="center">|Computer Science Graduate | Web-Developer | Programming |</h3>
+<h3 align="center">|Computer Science Graduate | Software-Developer | Programming |</h3>
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
