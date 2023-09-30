@@ -1,5 +1,4 @@
-
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek8056&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8056" /> </p>
 <h1 align="center">Hello 👋, I'm Abhishek Singh 👨‍💻</h1>
 <h3 align="center">|Computer Science Graduate | Web-Developer | Programming |</h3>
 
@@ -41,7 +40,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek8056&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8056" /> </p>
+
 
 
