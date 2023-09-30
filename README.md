@@ -33,7 +33,7 @@
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<p><img src="https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4"/></p>
 
 
 
