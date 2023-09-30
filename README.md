@@ -30,18 +30,18 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishek8056&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek8056&show_icons=true&locale=en&layout=compact" alt="abhishek8056" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek8056&show_icons=true&locale=en" alt="abhishek8056" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8056&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek8056&show_icons=true&locale=en" alt="Hi Abhishek " /></p>
-
-
-
+## Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek8056&label=Profile%20views&color=0e75b6&style=flat" alt="Hi Abhishek" /> </p>
 
 ### ✍️ Random Dev Quote
