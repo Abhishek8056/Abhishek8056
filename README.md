@@ -4,9 +4,10 @@
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-b655a3195/" target="blank">Linkedin<br>
-<a href="https://www.codechef.com/users/abhishek1746" target="blank">Codechef
-    </a>
+  <a href="https://www.linkedin.com/in/abhishek-singh-b655a3195/" target="blank">Linkedin</a>
+  <a href="https://www.codechef.com/users/abhishek1746" target="blank">Codechef</a>
+  <a href="https://leetcode.com/Abhishek8056/" target="blank">Leetcode</a>
+  <a href="https://www.salesforce.com/trailblazer/asingh4382/" target="blank">Trailhead</a>
 </p>
   <p align="center"> 📫 How to reach me **singhabhi1746@gmail.com**</p>
 
@@ -33,7 +34,7 @@
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4"/></p>
 
 
 
