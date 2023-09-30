@@ -29,7 +29,7 @@
 <p><img width="390" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&show_icons=true&locale=en&layout=compact" alt ="abhishek8056"/></p>
 <p>&nbsp;<img width="390" align="right" src="https://github-readme-stats.vercel.app/api?username=abhishek8056&show_icons=true&locale=en" alt="abhishek8056" /></p>
 <div align ="center">
-<p><img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek8056&show_icons=true&locale=en&layout=compact" alt="abhishek8056" /></p>
+<p align="center"> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek8056&show_icons=true&locale=en&layout=compact" alt="abhishek8056" /></p>
 </div>
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
