@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek8056&show_icons=true&locale=en" alt="abhishek8056" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&theme=_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
