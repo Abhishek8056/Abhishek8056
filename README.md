@@ -12,7 +12,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left"> # 💻 Tech Stack::</h3>
+<h2 align="center"> 💻 Tech Stack::</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -25,10 +25,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 📊 GitHub Stats:
+ <h2 align="center"> 📊 GitHub Stats:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek8056&show_icons=true&locale=en&layout=compact" alt="abhishek8056" /></p>
 
@@ -36,8 +33,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek8056&theme=_border=false)<br/>
 
+<h2 align="center"> 🏆 GitHub Trophies </h2>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek8056&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
